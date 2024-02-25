@@ -1,0 +1,9 @@
+token: ''
+guild-id: ''
+
+channel:
+  log: ''
+  ticket: ''
+
+category:
+  ticket-received: ''

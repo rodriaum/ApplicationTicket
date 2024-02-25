@@ -15,11 +15,15 @@ import java.util.EnumSet;
 public class Application implements EventListener {
 
     public static void main(String[] args) throws InterruptedException {
-        JDA jda = JDABuilder.create(Config.getToken(), EnumSet.allOf(GatewayIntent.class))
-                .setStatus(OnlineStatus.DO_NOT_DISTURB)
-                .build();
+        OnlineStatus status = Config.getStatus();
 
-        Config.init(jda);
+        JDABuilder build = JDABuilder.create(Config.getToken(), EnumSet.allOf(GatewayIntent.class))
+                .addEventListeners(new Application())
+                .setStatus(status == null || status.equals(OnlineStatus.UNKNOWN) ? OnlineStatus.DO_NOT_DISTURB : status);
+
+        Config.init();
+
+        JDA jda = build.build();
 
         jda.awaitReady();
     }

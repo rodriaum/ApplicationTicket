@@ -1,5 +1,7 @@
 .gradle
 build/
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
@@ -9,6 +11,12 @@ build/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea/.gitignore
+.idea/discord.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
 *.iws
 *.iml
 *.ipr
