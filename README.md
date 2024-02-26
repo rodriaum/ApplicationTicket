@@ -45,7 +45,7 @@ Este bot foi desenvolvido com o objetivo de facilitar a comunicação e o suport
 
 ## Licença
 
-Este projeto é licenciado sob a MIT License.
+Este projeto é licenciado sob a [MIT License](https://github.com/rodriaum/ApplicationTicket?tab=MIT-1-ov-file#MIT-1-ov-file).
 
 ---
 
