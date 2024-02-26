@@ -1,9 +1,19 @@
 token: ''
+# Example: 1211306889179172924
 guild-id: ''
+# Example: 1211459474536009798
+staff-role: ''
+# Example: 'online', 'idle', 'dnd', 'invisible', 'offline'.
+online-status: 'dnd'
 
-channel:
-  log: ''
-  ticket: ''
+max-tickets: 30
 
-category:
-  ticket-received: ''
+  # Example: 1211306960905961512
+channel.log: ''
+  # Example: 1211306889623896205
+channel.ticket: ''
+
+# Example: 1211306992308723743
+category.ticket-received: ''
+
+images.logo-link: 'https://imgur.com/VrkKgeB.png'

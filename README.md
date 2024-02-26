@@ -1,6 +1,6 @@
 # Ticket Bot Discord - API JDA
 
-Este é um bot Discord desenvolvido utilizando a API JDA (Java Discord API). O bot é projetado para tickets, proporcionando uma maneira eficiente de lidar com solicitações de suporte ou outras interações do usuário que necessitam de atenção especial.
+Este é um bot Discord desenvolvido utilizando a API JDA (Java Discord API). O bot é adequado para servidores de Minecraft ou GTA Roleplay, proporcionando uma maneira eficiente de lidar com solicitações de suporte ou outras interações do usuário que necessitam de atenção especial.
 
 ## Funcionalidades
 
@@ -39,6 +39,10 @@ Para obter suporte ou relatar problemas, abra uma issue neste repositório.
 ## Agradecimentos
 
 Este bot foi desenvolvido com o objetivo de facilitar a comunicação e o suporte dentro do seu servidor Discord. Agradecemos a todos os que contribuíram para tornar este projeto possível.
+
+## Licença
+
+Este projeto é licenciado sob a MIT License.
 
 ---
 

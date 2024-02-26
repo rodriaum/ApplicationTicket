@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c1fb49-b119-466b-90b4-d9cef0274f7c" name="Changes" comment="ops">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/rodriaum/ticket/config/key/ConfigKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    <list default="true" id="27c1fb49-b119-466b-90b4-d9cef0274f7c" name="Changes" comment="update beta 1">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/rodriaum/ticket/command/TicketCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/rodriaum/ticket/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/rodriaum/ticket/util/embed/Embeds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/listener/button/SetupTicketButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/listener/button/TicketButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/github/rodriaum/ticket/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/rodriaum/ticket/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/github/rodriaum/ticket/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/rodriaum/ticket/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/rodriaum/ticket/config/key/ConfigKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/rodriaum/ticket/config/key/ConfigKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +106,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rodrigo\Documents\Projects\Java\ApplicationTicket" />
+      <recent name="C:\Users\Rodrigo\Documents\Projects\Java\ApplicationTicket\src\main\java\com\github\rodriaum\ticket" />
+      <recent name="C:\Users\Rodrigo\Documents\Projects\Java\ApplicationTicket\src\main\java" />
       <recent name="C:\Users\Rodrigo\Documents\Projects\Java\ApplicationTicket\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -161,12 +169,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708869451871</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update beta 1">
+      <option name="closed" value="true" />
+      <created>1708902408416</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708902408417</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ops" />
-    <option name="LAST_COMMIT_MESSAGE" value="ops" />
+    <MESSAGE value="update beta 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update beta 1" />
   </component>
 </project>
