@@ -17,6 +17,7 @@ gradle/wrapper/gradle-wrapper.properties
 .idea/misc.xml
 .idea/uiDesigner.xml
 .idea/vcs.xml
+.idea/workspace.xml
 *.iws
 *.iml
 *.ipr
