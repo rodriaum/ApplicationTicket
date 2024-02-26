@@ -16,13 +16,16 @@ Para configurar e utilizar este bot em seu servidor Discord, siga estas etapas:
     - Acesse os [Releases](https://github.com/rodriaum/ApplicationTicket/releases) deste projeto.
     - Baixe o arquivo **.jar** mais recente disponível.
 
+
 2. **Configuração do Ambiente**:
     - Certifique-se de ter o Java instalado em sua máquina.
+
 
 3. **Configuração do Bot**:
     - Execute o arquivo .jar baixado.
     - Siga as instruções para configurar as chaves de API do Discord e outros parâmetros necessários.
     - Defina os canais apropriados onde o bot estará operando e onde os tickets serão processados.
+
 
 4. **Interagindo com o Bot**:
     - Os usuários podem abrir um ticket utilizando um comando específico ou outra forma de interação configurada.
