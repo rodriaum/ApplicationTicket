@@ -1,4 +1,4 @@
-package listener.button;
+package com.github.rodriaum.ticket.listener.button;
 
 import com.github.rodriaum.ticket.config.Config;
 import com.github.rodriaum.ticket.config.key.ConfigKey;

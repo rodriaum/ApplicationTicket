@@ -1,4 +1,4 @@
-package listener.button;
+package com.github.rodriaum.ticket.listener.button;
 
 import com.github.rodriaum.ticket.util.Util;
 import net.dv8tion.jda.api.entities.channel.concrete.TextChannel;
