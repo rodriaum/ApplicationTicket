@@ -41,12 +41,8 @@ Para obter suporte ou relatar problemas, abra uma issue neste repositório.
 
 ## Agradecimentos
 
-Este bot foi desenvolvido com o objetivo de facilitar a comunicação e o suporte dentro do seu servidor Discord. Agradecemos a todos os que contribuíram para tornar este projeto possível.
+Este bot foi desenvolvido com o objetivo de facilitar a comunicação e o suporte dentro do seu servidor Discord.
 
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](https://github.com/rodriaum/ApplicationTicket?tab=MIT-1-ov-file#MIT-1-ov-file).
-
----
-
-*Nota: Por favor, esteja ciente de que este programa ainda está em fase de desenvolvimento e pode sofrer alterações.*
